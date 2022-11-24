@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Futura';
+    src: url('FuturaBT-ExtraBlackItalic.eot');
+    src: url('FuturaBT-ExtraBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('FuturaBT-ExtraBlackItalic.woff2') format('woff2'),
+        url('FuturaBT-ExtraBlackItalic.woff') format('woff'),
+        url('FuturaBT-ExtraBlackItalic.svg#FuturaBT-ExtraBlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
